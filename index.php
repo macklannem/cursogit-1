@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
-    <title>Git Curso 444444 fsdaf fdgsdfgs</title>
+    <title>Git Curso 444444 fsdaf</title>
     
 </head>
 <body>
